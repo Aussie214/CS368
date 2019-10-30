@@ -1,0 +1,44 @@
+200 3 Programming I
+202 3 Introduction to Computation
+240 3 Introduction to Discrete Mathematics
+252 2 Introduction to Computer Engineering
+298 3 Directed Study in Computer Science
+300 3 Programming II
+301 3 Introduction to Data Programming
+304 1 WES-CS Group Meeting
+352 3 Digital System Fundamentals
+354 3 Machine Organization and Programming
+368 1 C++ for Java Programmers
+400 3 Programming III
+402 2 Introducing Computer Science to K-12 Students
+412 3 Introduction to Numerical Methods
+425 3 Introduction to Combinatorial Optimization
+435 3 Introduction to Cryptography
+375 3 Introduction to Combinatorics
+502 1 Theory and Practice in Computer Science Education
+506 3 Software Engineering
+513 3 Numerical Linear Algebra
+520 3 Introduction to Theory of Computation
+524 3 Introduction to Optimization
+525 3 Linear Optimization
+532 3 Matrix Methods in Machine Learning
+533 3 Image Processing
+534 3 Computational Photography
+537 4 Introduction to Operating Systems
+539 3 Introduction to Artificial Neural Networks and Fuzzy Systems
+540 3 Introduction to Artificial Intelligence
+552 3 Introduction to Computer Architecture
+564 4 Database Management Systems
+570 4 Introduction to Human Computer Interaction
+576 3 Introduction to Bioinformatics
+577 4 Introduction to Algorithms
+579 3 Virtual Reality
+611 3 User Experience Design I
+640 3 Introduction to Computer Networks
+679 3 Computer Game Technology
+310 3 Problem Solving Using Computers
+371 3 Technology of Computer-based Business Systems
+471 3 Introduction to Computational Statistics
+538 3 Introduction to the Theory and Design of Programming Languages
+559 3 Computer Graphics
+612 3 User Experience Design II

@@ -1,0 +1,8 @@
+101 200 Intro to Computer Science
+102 0 Intro to Computation
+110 300 Programming in Java
+200 506 Software Engineering
+202 0 Practicum in Software Engineering
+230 525 Optimization
+235 577 Algorithms & Formal Methods
+260 559 Graphics
